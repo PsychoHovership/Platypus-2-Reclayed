@@ -866,8 +866,9 @@
     "behaviour": "Lua",
     "customBehaviourData": {
       "luaScript": "homingFishFighter",
+      "firstShotDelay": [40, 40, 40, 20, 20],
+      "fireSFX": "s_enemyfire_fishfighter",
       "firePattern": {
-        "fireSFX": "s_enemyfire_fishfighter",
         "veryEasy": [ 80 ],
         "easy": [ 80 ],
         "normal": [ 80 ],

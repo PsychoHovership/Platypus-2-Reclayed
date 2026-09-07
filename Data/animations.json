@@ -3,7 +3,6 @@
     "sprite": "Sprites/Enemies/fish fighter green",
     "generateColliders": true,
     "matDayCycleMultiplier": 0.5,
-    "invertSheetOrder": true,
     "rows": 8,
     "columns": 8
   },
